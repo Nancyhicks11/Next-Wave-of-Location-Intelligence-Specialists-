@@ -1,0 +1,2 @@
+# Next-Wave-of-Location-Intelligence-Specialists-
+Next Wave of Location Intelligence Specialists Swift Navigation and Deutsche Telekom announced a partnership to incorporate Swift’s Skylark Cloud Corrections Services within Telekom’s communications infrastructure through its new Precise Positioning product offering. The companies’ joint lane-level accurate Precise Positioning is designed for level 2 and 3 automotive applications https://insidegnss.com/category/industry-view-category/
